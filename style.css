@@ -101,6 +101,10 @@ canvas {
     opacity: 90%;
   }
 
+  header h1 {
+    border-radius: 10px;
+  }
+
   .left {
     grid-column: 6 / 12;
   }
